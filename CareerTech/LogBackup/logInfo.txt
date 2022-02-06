@@ -1,0 +1,40 @@
+((null))-((null)) 2021-10-26 16:18:33,038 [INFO] Quartz.Impl.StdSchedulerFactory - Default Quartz.NET properties loaded from embedded resource file 
+((null))-((null)) 2021-10-26 16:18:33,104 [DEBUG] Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler. 
+((null))-((null)) 2021-10-26 16:18:33,128 [INFO] Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+((null))-((null)) 2021-10-26 16:18:33,128 [INFO] Quartz.Core.QuartzScheduler - Quartz Scheduler created 
+((null))-((null)) 2021-10-26 16:18:33,129 [INFO] Quartz.Simpl.RAMJobStore - RAMJobStore initialized. 
+((null))-((null)) 2021-10-26 16:18:33,132 [INFO] Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.3.3.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+((null))-((null)) 2021-10-26 16:18:33,133 [INFO] Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized 
+((null))-((null)) 2021-10-26 16:18:33,133 [INFO] Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.3.3.0 
+((null))-((null)) 2021-10-26 16:18:33,146 [INFO] Quartz.Core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. 
+((null))-((null)) 2021-10-26 16:18:33,155 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:18:33,171 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers 
+((null))-((null)) 2021-10-26 16:18:33,477 [DEBUG] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.22a4385f-9570-4a9f-a6c2-cddcdad5d3f4', class=CareerTech.Services.MyJob 
+((null))-((null)) 2021-10-26 16:18:33,622 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:18:33,639 [DEBUG] Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.22a4385f-9570-4a9f-a6c2-cddcdad5d3f4 
+((null))-((null)) 2021-10-26 16:18:37,915 [INFO] CareerTech.Services.Implement.PartnerManagementService - GET ALL PARTNERS_WITH SERVICE 
+((null))-((null)) 2021-10-26 16:18:38,245 [DEBUG] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction 
+((null))-((null)) 2021-10-26 16:18:39,584 [INFO] CareerTech.Controllers.HomeController -  is in HomePage 
+((null))-((null)) 2021-10-26 16:18:39,812 [INFO] CareerTech.Services.Implement.SubscriptionManagementService - Get list subscription 
+((null))-((null)) 2021-10-26 16:18:40,083 [INFO] CareerTech.Services.Implement.SolutionManagementService - Get list subscription 
+((null))-((null)) 2021-10-26 16:18:40,300 [INFO] CareerTech.Services.Implement.ContentService - GET MAIN CONTENT:: id: 739ebd82-9820-4399-9714-fd0b3227667e, title: TÌM VIỆC KHÓ - CÓ CAREER TECH LO, detail:<p>SỞ HỮU NGAY PORTFOLIO XỊN C&Ugrave;NG VIỆC L&Agrave;M MƠ ƯỚC</p>
+
+<p>30.000+ cơ hội việc l&agrave;m được kết nối th&agrave;nh c&ocirc;ng qua Career Tech mỗi ng&agrave;y</p>
+,img: http://res.cloudinary.com/dathm/image/upload/v1633834397/portfolio-svgrepo-com.svg.svg, MainStatus: True 
+((null))-((null)) 2021-10-26 16:19:03,533 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:19:31,275 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:20:00,929 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:20:26,898 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:20:55,509 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:21:20,128 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:21:46,927 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:22:13,801 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:22:36,973 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
+((null))-((null)) 2021-10-26 16:23:04,601 [DEBUG] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers 
